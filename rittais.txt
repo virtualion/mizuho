@@ -1,0 +1,2 @@
+MyModels/RicePlant/RicePlant.obj
+MyModels/vase/balustervase_combined.obj

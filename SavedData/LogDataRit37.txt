@@ -1,0 +1,5 @@
+id	data	x	y	z	theta	size	parent	uniqueCode
+1	Images/713992/sec0/sec0_01.jpg,Wooden_thin2	1.160001	11.7	-8.820006	0,7.135952,0	1.7	2	2
+2	Images/713992/sec1/sec1_01.jpg,Wooden_thin2	1.47	11.2	9.269995	0,6.64065,0	1.7	2	3
+5	MyModels/vase/balustervase_combined.obj	4.350001	-3.5	4.559999	0,0,0	20	9	47
+6	MyModels/RicePlant/RicePlant.obj	-4.309999	1.5	-0.3000005	-165.1998,59.93112,260.6757	0.15	9	48
