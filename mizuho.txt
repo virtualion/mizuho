@@ -1,0 +1,2 @@
+#root=https://virtualion.github.io/mizuho/
+#prj=mica
