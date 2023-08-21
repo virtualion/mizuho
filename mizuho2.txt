@@ -1,2 +1,2 @@
-#root=http://muse2000-a.s3-website-ap-northeast-1.amazonaws.com/Resources/
+#root=https://d17zp9zgp7mhkq.cloudfront.net/Resources/
 #prj=test1
