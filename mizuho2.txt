@@ -1,2 +1,2 @@
-#root=https://virtualion.github.io/mizuho/
+#root=http://muse2000-a.s3-website-ap-northeast-1.amazonaws.com/Resources/
 #prj=test1

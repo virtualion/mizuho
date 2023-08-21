@@ -1,2 +1,2 @@
 ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
-1	http://muse2000-a.s3-website-ap-northeast-1.amazonaws.com/Resources/Images/11/Altaic_family.png	0,52.5,197.5	1,0,0	0,1,0	0,0,1	5.250623	-25.5	0.2	2	Metal	-1:-1	0
+1	Images/11/Altaic_family.png	0,52.5,197.5	1,0,0	0,1,0	0,0,1	5.250623	-25.5	0.2	2	Metal	-1:-1	0
