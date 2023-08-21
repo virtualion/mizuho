@@ -1,2 +1,2 @@
 #root=https://virtualion.github.io/mizuho/
-#prj=test2
+#prj=test1
